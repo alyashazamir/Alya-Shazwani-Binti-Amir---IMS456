@@ -1,0 +1,42 @@
+<ul>
+  <li><a href="aboutme.html">About Me</a></li>
+  <li><a href="1.html">Me, Myself, & I</a></li>
+  <li><a href="2.html">Study Background</a></li>
+  <li><a href="3.html">My Family</a></li>
+  <li><a href="4.html">My Cats</a></li>
+  <li><a href="5.html">My Hobbies</a></li>
+  <li><a href="6.html">My Interests</a></li>
+  <li><a href="7.html">My Most Treasured Moments</a></li>
+  <li><a href="8.html">My Favs</a></li>
+  <li><a href="9.html">My Gallery</a></li>
+</ul>
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 50%;
+  padding: 50%;
+
+table
+{text-align:center;background-color:#A7C7E7}
+  width: 25%;
+  background-color: #f1f1f1;
+  height: 100%; /* Full height */
+  position: fixed; /* Make it stick, even on scroll */
+  overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
+
+body
+{background-color:#89CFF0}
+ 
+h1
+{text-align:center;color:#7393B3}
+ 
+p
+{text-align:center;color:#6082B6}
+ 

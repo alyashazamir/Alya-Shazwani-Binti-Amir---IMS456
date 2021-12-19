@@ -1,0 +1,37 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="wp.css"/>
+<title>My Interests</title>
+<body align="center">
+<h1 align="center">My Interests</h1>
+<br>
+<br>
+<br>
+<p><b>Cooking : </b></p>
+<p>I love cooking since I was a little girl. Cooking really helps0 distracting me when in stressful times. My parents; especially my father, always teach my siblings and i the tips and recipes in cooking. Usually I would be the second person that handles the cooking beside my father. I really love to cook something simple but tasty. In the future, i wanted to try baking something such as cookies, bread and cakes because i really love these types of food. </p>
+<br>
+<br>
+<br>
+<p align="center"><img src="Alya Shazwani Binti Amir (2021124203)/picture/int1.jpeg" width=50%" height="50%" border="1"</p>
+<br>
+<br>
+<br>
+<p align="center"><img src="Alya Shazwani Binti Amir (2021124203)/picture/int2.jpeg" width=50%" height="50%" border="1"</p>
+<br>
+<br>
+<br>
+<p><b>Drawing : </b></p>
+<p>Drawing is something that i really wanted to major in when i was thinking about my ambition in primary school. Unfortunately, the secondary school that i attended did not have art subject, instead they have caligraphy as the substitute. I did participate in a caligraphy contest; where everyone are obliged to take part, where i win number 1 in the contest for the category of grade 1 (13 years old) at that time. I was suprised that i can win because there are a lot more beautiful caligraphy than me. But then i realized that i actually decorate my caligraphy with collage and drawing, maybe that is why i won. Nevertheless, i am not an expert in drawing, but i really enjoy doing it.</p>
+<br>
+<br>
+<br>
+<p align="center"><img src="Alya Shazwani Binti Amir (2021124203)/picture/int3.jpeg" width=50%" height="50%" border="1"</p>
+<br>
+<br>
+<br>
+<p align="center"><img src="Alya Shazwani Binti Amir (2021124203)/picture/int4.jpeg" width=50%" height="50%" border="1"</p>
+<br>
+<br>
+<br>
+</body>
+</html>

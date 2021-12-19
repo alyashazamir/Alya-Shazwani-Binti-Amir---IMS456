@@ -1,0 +1,50 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="wp.css"/>
+<title>My Favs</title>
+</head>
+<body align="center">
+<h1 align="center">My Favs</h1>
+<br>
+<br>
+<br>
+<table style="border:solid transparent" align="center" valign="middle" cellpadding="5" cellspacing="5">
+<th rowspan="6">Favorite Songs :</th>
+<tr>
+<td><a href="Alya Shazwani Binti Amir (2021124203)/music/1.mpeg">TXT -  Loser = Lover</a></td>
+</tr>
+<tr>
+<td><a href="Alya Shazwani Binti Amir (2021124203)/music/2.mpeg">Lee Hi -  Savior (ft. Hanbin)</a></td>
+</tr>
+<tr>
+<td><a href="Alya Shazwani Binti Amir (2021124203)/music/3.mpeg">P1harmony -  Maniac (Cover)</a></td>
+</tr>
+<tr>
+<td><a href="Alya Shazwani Binti Amir (2021124203)/music/4.mpeg">Twice -  Doughnut</a></td>
+</tr>
+<tr>
+<td><a href="Alya Shazwani Binti Amir (2021124203)/music/5.mpeg">ITZY -  Swipe</a></td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<p align="center"><h2>Favourite Shows</h2>
+<embed src="Alya Shazwani Binti Amir (2021124203)/video/11.mp4" autoplay="false"></embed>
+<p>Zootopia Trailer</p>
+<br>
+<embed src="Alya Shazwani Binti Amir (2021124203)/video/22.mp4" autoplay="false"></embed>
+<p>Nacho Libre Trailer</p>
+<br>
+<embed src="Alya Shazwani Binti Amir (2021124203)/video/33.mp4" autoplay="false"></embed>
+<p>The Amazing World of Gumball Trailer</p>
+<br>
+<embed src="Alya Shazwani Binti Amir (2021124203)/video/44.mp4" autoplay="false"></embed>
+<p>Kitchen Nightmare Trailer</p>
+<br>
+<embed src="Alya Shazwani Binti Amir (2021124203)/video/55.mp4" autoplay="false"></embed>
+<p>Umbrella Academy Trailer</p></p>
+<br>
+</body>
+</body>
+</html>

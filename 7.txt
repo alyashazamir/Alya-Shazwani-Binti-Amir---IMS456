@@ -1,0 +1,31 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="wp.css"/>
+<title>My Moments</title>
+<body align="center">
+<h1 align="center">Most Treasured Moments</h1>
+<br>
+<br>
+<br>
+<p><b>Funny : </b></p>
+<p>Funny moments that happens to me is when i always forget my line. For example, if i wanted to say “i wanted to wash dishes” than i will miscommunicate it and it will become “i wanted to hang the dishes”.</p>
+<br>
+<br>
+<br>
+<p><b>Sad : </b></p>
+<p>The saddest moments is when my grandfather died</p>
+<br>
+<br>
+<br>
+<p><b> Happy : </b></p>
+<p>My happiest moments is right now, where I have the opportunity to spend my time with my family even if i’m studying. Just by looking at their faces makes me grateful that i have them now. I hope it would last a lot longer.</p>
+<br>
+<br>
+<br>
+<p><b> Mix feeling : </b></p>
+<p>This happens when i was still in primary school, where my family decided to plan a trip to a beach in Pulau Pinang. We prepared a lot of food as we wanted to do a picnic. After arriving to the beach, my siblings and i decided to not swim yet, and walk by the beach. And thats when we found two jellyfishes stranded. We are amazed because we never seen it in real life. As we admired from afar, there are two men that decided to touch the jellyfishes by their bare hand, a the look like being electrocuted. At that time, i did not know what to do, and luckily there are adults that saw the incident and call the ambulance.</p>
+<br>
+<br>
+<br>
+</body>
+</html>

@@ -1,0 +1,55 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="wp.css"/>
+<title>About Me</title>
+</head>
+<body image src="Alya Shazwani Binti Amir (2021124203)/picture/head.jpeg">
+<pre><font size="35"><b>
+
+                Welcome 
+                    
+                   
+                 to My 
+
+ 
+                Website</font></b></pre>
+<br>
+<br>
+<br>
+<table style="border:solid transparent" align="center" valign="middle" cellpadding="5" cellspacing="5">
+<th rowspan="9"></th>
+<tr>
+<td><abbr title="Alya Shazwani Binti Amir">Title : ASBA</abbr></td>
+</tr>
+<tr>
+<td>Name : Alya Shazwani Binti Amir</td>
+</tr>
+<tr>
+<td>Student ID : 2021124203</td>
+</tr>
+<tr>
+<td>Group : KIM2443B</td>
+</tr>
+<tr>
+<td>Course code : IMS456</td>
+</tr>
+<tr>
+<td>Course name : Basic Web Design & Content Management</td>
+</tr>
+<tr>
+<td>Faculty : Faculty of Information Manangement</td>
+</tr>
+<tr>
+<td>Submission date : 19th December 2021</td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<p align="center"><img src="Alya Shazwani Binti Amir (2021124203)/picture/aboutme.jpeg" width=30%" height="50%" border="1"</p>
+<br>
+<br>
+<br>
+<p align="center"><a href="1.html"><img src="Alya Shazwani Binti Amir (2021124203)/picture/start.png"></a></p>
+</body>
+</html>
